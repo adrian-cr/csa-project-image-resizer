@@ -1,0 +1,1 @@
+# csa-project-image-resizer
