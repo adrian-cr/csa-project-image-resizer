@@ -135,7 +135,8 @@ export const handler = async (event) => {
     Body: file=<image file>
     ```
 * Original image (370px * 370px):
-![](./images/original-img.png)
+
+    ![](./images/original-img.png)
 
 
 ### Response
@@ -146,4 +147,5 @@ export const handler = async (event) => {
   }
   ```
 * Resized image (200px * 400px):
-![](./images/resized-img.png)
+
+    ![](./images/resized-img.png)
